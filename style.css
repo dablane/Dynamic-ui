@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size:medium;
+    font-weight:normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header styles */
+#headerContainer > h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: aliceblue;
+    text-shadow: rgba(65, 62, 62, 0.5);
+}
+#headerContainer > small{
+    font-size: small;
+    font-weight: bold;
+    color: darkgrey;
+}
+#headerContainer{
+    margin: 30px;
+    box-shadow: 5px 3px rgba(65, 62, 62, 5);
+    padding: 15px;
+    border-radius: 10px;
+    background-color:black
+
+}
+
